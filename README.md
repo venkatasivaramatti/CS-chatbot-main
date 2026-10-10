@@ -49,10 +49,6 @@ CSBot is a Streamlit chatbot that answers questions from a computer science (Jav
 | `python-dotenv` | 1.2.4 | Loads `.env` variables |
 
 ## Setup
-
-```powershell
-cd c:\Users\DELL\medical-chatbot-main
-
 # Install all dependencies from the Pipfile (creates the virtual environment)
 pipenv install
 ```
