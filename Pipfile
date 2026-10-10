@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+langchain-huggingface = "*"
+langchain-groq = "*"
+python-dotenv = "*"
+pypdf = "*"
+huggingface-hub = "*"
+sentence-transformers = "*"
+faiss-cpu = "*"
+langchain-community = "*"
+langchain-classic = "*"
+torchvision = "*"
+streamlit = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.14"
